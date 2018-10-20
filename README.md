@@ -9,4 +9,4 @@ Program ini merupakan tugas dari pembahasan tentang BACK END dimana dalam tugas 
 2. File app4.py : Merupakan tempat menyimpan framework nya
 3. Folder resource: Merupakan tempat untuk menyimpan endpoint nya dan database nya
 
-Masuk pak eko
+Selain itu ada juga file middle ware
