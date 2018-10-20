@@ -10,3 +10,4 @@ Program ini merupakan tugas dari pembahasan tentang BACK END dimana dalam tugas 
 3. Folder resource: Merupakan tempat untuk menyimpan endpoint nya dan database nya
 
 Selain itu ada juga file middle ware
+dan terdapat app.py yang berisi program lain 
