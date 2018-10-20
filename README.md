@@ -11,3 +11,5 @@ Program ini merupakan tugas dari pembahasan tentang BACK END dimana dalam tugas 
 
 Selain itu ada juga file middle ware
 dan terdapat app.py yang berisi program lain 
+
+Ini merupakan hasil merge terakhir ke master
